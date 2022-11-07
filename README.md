@@ -1,3 +1,5 @@
 # git-poland
 
-We are learning how to use Git.
+We are learning to use Git.
+
+Adding some more text.
